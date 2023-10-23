@@ -6,7 +6,9 @@
 
 After cloning, run
 
+```
 1. npm i
 2. npm run dev / npm start
+```
 
 to run the application on your device.

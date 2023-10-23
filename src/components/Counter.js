@@ -5,7 +5,7 @@ function Counter() {
 
     return (
         <>
-            <div className="container my-4 d-flex justify-content-start">
+            <div className="container my-5 d-flex justify-content-start">
                 <button
                     type="button"
                     className="btn btn-md btn-outline-danger my-3"
