@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tapcounter/static/css/main.31d6cfe0.css",
+    "main.js": "/tapcounter/static/js/main.db142330.js",
+    "static/js/787.8645b54b.chunk.js": "/tapcounter/static/js/787.8645b54b.chunk.js",
+    "index.html": "/tapcounter/index.html",
+    "main.db142330.js.map": "/tapcounter/static/js/main.db142330.js.map",
+    "787.8645b54b.chunk.js.map": "/tapcounter/static/js/787.8645b54b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.db142330.js"
+  ]
+}
