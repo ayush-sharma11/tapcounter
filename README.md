@@ -12,3 +12,5 @@ After cloning, run
 ```
 
 to run the application on your device.
+
+For any further queries, feel free to reach out!
