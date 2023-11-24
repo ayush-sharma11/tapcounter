@@ -1,4 +1,4 @@
-# A simple Tap Counter built using React (Vite) and Bootstrap.
+# A simple Tap Counter built using React and Bootstrap.
 
 ### Click on the 'TAP' button to increase the counter and on 'RESET' button to reset the counter.
 
