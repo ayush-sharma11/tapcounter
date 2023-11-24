@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/tapcounter/static/js/main.2bcd9789.js",
+    "main.js": "/tapcounter/static/js/main.def47b3e.js",
     "static/js/787.8645b54b.chunk.js": "/tapcounter/static/js/787.8645b54b.chunk.js",
     "index.html": "/tapcounter/index.html",
-    "main.2bcd9789.js.map": "/tapcounter/static/js/main.2bcd9789.js.map",
+    "main.def47b3e.js.map": "/tapcounter/static/js/main.def47b3e.js.map",
     "787.8645b54b.chunk.js.map": "/tapcounter/static/js/787.8645b54b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2bcd9789.js"
+    "static/js/main.def47b3e.js"
   ]
 }
