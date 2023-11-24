@@ -11,11 +11,8 @@ function App() {
             <section className="page-navbar">
                 <nav className="navbar bg-primary">
                     <div className="container-fluid">
-                        <div
-                            style={{ margin: "auto" }}
-                            className="navbar-brand text-white mx-4"
-                        >
-                            <h2>Tap Counter</h2>
+                        <div className="navbar-brand text-white mx-4">
+                            <h2 className="my-1">Tap Counter</h2>
                         </div>
                         <div className="mx-4">
                             <button
